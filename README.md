@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 I am a motivated developer and learner who like to take excited and challenge projects. I have strong programming skills in Java, JavaScript and Scala. Experienced creating custom websites through Spring Boot, Node.js and React.js.
 I'm currently looking for Software Engineer and Full Stack Engineer opportunity. 
 
+**Talk about Personal Stuffs:**
+
+- 🌱 I'm currently learning Flux pattern and Redux
+- :memo: Resume (https://drive.google.com/file/d/165I6P2IA1ieM8qDyPuNA70Cw5JeHGFMi/view?usp=sharing)
+
 
 **Languages and Tools:**  
 
