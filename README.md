@@ -3,8 +3,9 @@
 <a href="https://www.linkedin.com/in/pinhowang/">
   <img align="left" alt="Pinho's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br></br>
 
-<br />
+
 <!--
 **PinHoWang/PinHoWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 I am a motivated developer and learner who like to take excited and challenge projects. I have strong programming skills in Java, JavaScript and Scala. Experienced creating custom websites through Spring Boot, Node.js and React.js.
 I'm currently looking for Software Engineer and Full Stack Engineer opportunity. 
