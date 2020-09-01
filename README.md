@@ -21,7 +21,7 @@ I'm currently looking for Software Engineer and Full Stack Engineer opportunity.
 **Talk about Personal Stuffs:**
 
 - 🌱 I'm currently learning Flux pattern and Redux
-- :memo: Resume (https://drive.google.com/file/d/165I6P2IA1ieM8qDyPuNA70Cw5JeHGFMi/view?usp=sharing)
+- :memo: [Resume](https://drive.google.com/file/d/165I6P2IA1ieM8qDyPuNA70Cw5JeHGFMi/view?usp=sharing)
 
 
 **Languages and Tools:**  
